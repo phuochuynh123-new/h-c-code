@@ -1,4 +1,7 @@
 {
+  // Tắt toàn bộ tính năng AI tích hợp sẵn của VS Code (Copilot, chat, gợi ý AI)
+  "chat.disableAIFeatures": true,
+
   // Tắt gợi ý code tự động của AI (ghost text / inline suggestions)
   "editor.inlineSuggest.enabled": false,
 
